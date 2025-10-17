@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@aws-sdk/client-textract": "^3.911.0",
     "@google-cloud/vision": "^5.3.4",
     "axios": "^1.12.2",
     "cors": "^2.8.5",
